@@ -26,26 +26,21 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
-            <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">
+            <a class="nav-item nav-link active" href="home_user.php">Home <span class="sr-only">
                 (current)</span></a>
-            <a class="nav-item nav-link" href="login.php">Login</a>
+            <a class="nav-item nav-link" href="event.php">Data</a>
+            <a class="nav-item nav-link" href="formulir.php">Formulir</a>
+            <a class="nav-item nav-link" href="index.php">Logout</a>
         </div>
         </div>
         </div>
   </nav>
-
-   <!--akhir navbar-->
-
-    <!--jumbotrom-->
-    <div class="jumbotron jumbotron-fluid">
+  <!--jumbotrom-->
+  <div class="jumbotron jumbotron-fluid">
         <div class="container">
-          <h1 class="display-4">Lomba Fotografis</h1>
-          <p class="lead">Hai kalian semuanya admin <br> dalam kesempatan yang baik inilah akan membagikan
-           tentang adanya informasi lomba fotografi secara online tingkat nasional di Tahun 2023 dimana dalam
-            ajang agenda ini sendiri sepenuhnya diselenggarakan secara gratis.<br>
-
-      Pastinya untuk penyelenggara dalam event lomba ini ialah BPSDM ESDM adalah salah satu unit di Kementerian ESDM
-<br> untuk pelatihan, sertifikasi, dan pendidikan vokasi di sektor Energi dan Sumber Daya Mineral</p>
+          <h1 class="display-4">HAI ANDA DI SINI LOGIN SEBAGAI ADMIN</h1>
+          <p class="lead"><h4>ika anda ingin mngecek data yang sudah terdaftar maka klik navbar data 
+        <br> maka anda akan masuk ke halaman data peserta</h4></p>
         </div>
       </div>
     <!--akhir jumbotrom-->
